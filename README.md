@@ -149,7 +149,7 @@ After prediction:
 3. Run the script:
 
    ```bash
-   python liver (1).py
+   python liver1 (2).py
    ```
 4. Enter patient details when prompted
 
